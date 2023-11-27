@@ -16,6 +16,7 @@ installation
 ===
 * copy conf/bacula.conf to /etc/zabbix/zabbix.agent.d/
 * copy scripts/ to /etc/zabbix/scripts
+* sudo on both scripts via visudo or file in /etc/sudoers.d/
 * import template
 
 contributors
