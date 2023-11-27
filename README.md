@@ -25,5 +25,9 @@ installation
 
 contributors
 =====
-* Fábio Miguel Mello (me)
+* Fábio Miguel Mello
+* Elias Morais Pereira (me)
 
+Update (27/11/2023)
+=====
+* upgrade template version to zabbix 6.4.8
